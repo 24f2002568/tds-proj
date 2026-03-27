@@ -1,0 +1,8 @@
+{
+  "prompt": "A cinematic, wide-angle shot of an ancient forest where massive, moss-covered tree trunks stand on the left, glowing with faint bioluminescence. Moving to the right, the trees physically dissolve into wisps of dark smoke and fluttering charcoal ash, vanishing into a deep black void. High textural detail, moody and somber atmosphere, blurry motion effect on the disappearing fragments. No text, no graphs. 16:9 aspect ratio.",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "FAO Global Forest Resources Assessment 2020",
+  "dataset_url": "https://www.fao.org/forest-resources-assessment/2020/en/",
+  "insight": "The world has lost 178 million hectares of forest since 1990, an irreversible evaporation of Earth's primary ecosystems.",
+  "publish_email": true
+}
