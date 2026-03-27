@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic, cinematic wide shot of a formal garden. In the center, a topiary bush has been trimmed into an incredibly complex, jagged, and nonsensical shape that perfectly and obsessively mimics the rusted, broken pattern of a background iron fence. The gardener stands by with tiny nail scissors, looking exhausted. 8k resolution, photorealistic, no text, no diagrams, soft natural morning light.",
+  "model": "Flux Pro 1.1",
+  "concept": "Overfitting",
+  "metaphor": "The gardener trims the hedge to match the 'noise' (the broken fence) so perfectly that the hedge loses its general purpose and form."
+}
