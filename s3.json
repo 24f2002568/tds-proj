@@ -1,0 +1,9 @@
+{
+  "prompt": "A 19th-century naturalist scientific engraving on aged, heavy-stock cream paper. The subject is 'The Descent of the Gradient.' It features a detailed topographical cross-section of a mountain valley rendered with fine black ink cross-hatching and stippling. A small, heavy lead sphere is depicted at multiple stages of rolling down the steepest path of the curve toward a shaded basin at the bottom (the local minimum). Annotated with elegant copperplate cursive labels in faded black ink. Precise scientific measurements and a scale bar at the bottom. No digital gradients; shading is achieved strictly through line density.",
+  "model": "Flux Pro 1.1",
+  "concept": "Gradient Descent",
+  "tradition_name": "19th-century naturalist scientific engraving",
+  "tradition_period": "1830s–1880s",
+  "tradition_approach": "Targeted intaglio printing grammar: shading via varied line density (cross-hatching) rather than tone, use of copperplate script for annotations, and a technical topographical layout common in geological journals of the era.",
+  "publish_email": true
+}
